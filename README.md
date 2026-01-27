@@ -1,3 +1,2 @@
 # HTML-Injection
-# Phân biệt XSS với HTML Injection
-#### 
+#### Khiến đối tượng hiểu lầm user input là instruction
