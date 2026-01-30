@@ -7,3 +7,5 @@
 # Same-Origin policy
 #### Chỉ có 2 website có cùng origin mới có thể tươn tác với nhau
 #### Khác origin thì phải được cho phép từ 2 bên
+# JS làm được gì
+#### Đọc/Ghi/Xóa DOM Tree, Gửi/Nhận HTTP
